@@ -1,0 +1,6 @@
+C:\Users\marlo\source\repos\Piva\LibreriaClases1\bin\Debug\LibreriaClases1.dll
+C:\Users\marlo\source\repos\Piva\LibreriaClases1\bin\Debug\LibreriaClases1.pdb
+C:\Users\marlo\source\repos\Piva\LibreriaClases1\obj\Debug\LibreriaClases1.csproj.AssemblyReference.cache
+C:\Users\marlo\source\repos\Piva\LibreriaClases1\obj\Debug\LibreriaClases1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Piva\LibreriaClases1\obj\Debug\LibreriaClases1.dll
+C:\Users\marlo\source\repos\Piva\LibreriaClases1\obj\Debug\LibreriaClases1.pdb
